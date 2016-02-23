@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mtulliiciceroni22cicegoog_0075.png"; bbox 0 0 2325 4075; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 482 522 1872 2768">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 482 522 1872 2768">
+     <span class='ocr_line' id='line_1_1' title="bbox 482 522 1872 2768; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 482 522 1872 2768; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 482 2770 1617 2931">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 482 2770 1617 2931">
+     <span class='ocr_line' id='line_1_2' title="bbox 533 2770 1617 2906; baseline 0.142 -147"><span class='ocrx_word' id='word_1_2' title='bbox 533 2770 536 2771; x_wconf 16' lang='lat'><em>⁷</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1037 2796 1097 2838; x_wconf 81' lang='lat' dir='ltr'>u:</span> <span class='ocrx_word' id='word_1_4' title='bbox 1125 2797 1292 2872; x_wconf 64' lang='lat' dir='ltr'>etjam</span> <span class='ocrx_word' id='word_1_5' title='bbox 1307 2813 1617 2906; x_wconf 55' lang='lat' dir='ltr'>inconcio-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 482 2800 1134 2931; baseline 0.143 -91"><span class='ocrx_word' id='word_1_6' title='bbox 482 2800 789 2886; x_wconf 63' lang='lat' dir='ltr'>ttrjbunhm</span> <span class='ocrx_word' id='word_1_7' title='bbox 819 2838 993 2910; x_wconf 77' lang='lat' dir='ltr'>plebis</span> <span class='ocrx_word' id='word_1_8' title='bbox 1023 2864 1134 2931; x_wconf 88' lang='lat' dir='ltr'>dec</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 482 2875 858 2978">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 482 2875 858 2978">
+     <span class='ocr_line' id='line_1_4' title="bbox 482 2875 858 2978; baseline 0.13 -38"><span class='ocrx_word' id='word_1_9' title='bbox 482 2875 720 2973; x_wconf 50' lang='lat' dir='ltr'><strong>Remum</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 752 2916 858 2978; x_wconf 72' lang='lat' dir='ltr'>effi:</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 886 2885 1900 3132">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 886 2885 1900 3132">
+     <span class='ocr_line' id='line_1_5' title="bbox 1136 2885 1900 3132; baseline 0.145 -202"><span class='ocrx_word' id='word_1_11' title='bbox 1136 2885 1264 2959; x_wconf 54' lang='lat' dir='ltr'>aust,</span> <span class='ocrx_word' id='word_1_12' title='bbox 1287 2905 1492 2980; x_wconf 74' lang='lat' dir='ltr'>Sthe-nii</span> <span class='ocrx_word' id='word_1_13' title='bbox 1515 2936 1601 2997; x_wconf 89' lang='lat' dir='ltr'>M.</span> <span class='ocrx_word' id='word_1_14' title='bbox 1868 2935 1900 3132; x_wconf 62' lang='lat'>1</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 886 2944 1166 3021; baseline 0.136 -36"><span class='ocrx_word' id='word_1_15' title='bbox 886 2944 1124 3016; x_wconf 80' lang='lat' dir='ltr'>questum</span> <span class='ocrx_word' id='word_1_16' title='bbox 1149 2986 1166 3021; x_wconf 77' lang='grc' dir='ltr'><em>τ</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
